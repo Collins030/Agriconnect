@@ -1,1 +1,3 @@
-# Agriconnect
+# agriplant
+
+Agriculture plant app
